@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm a passionate full stack developer currently studying at DePauw University. My projects reflect my dedication to innovation and continuous learning, spanning across various domains, including mobile development with Flutter and computer vision with OpenCV.
+
+- 🔭 I’m currently working on Computer Vision
+
+
+Feel free to explore my repositories! Whether it's an expense tracker, a weather app, or a color detection program, each project showcases my commitment to building practical, user-friendly solutions. I’m always eager to refine my skills and explore new technologies. I hope you find my work as exciting and inspiring as I do. Let's connect and collaborate!
+
 <!--
 **xangaih/xangaih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
